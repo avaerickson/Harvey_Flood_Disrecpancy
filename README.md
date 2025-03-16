@@ -7,6 +7,9 @@ We wanted to assess the performance of the Texas Water Development Board’s flo
 Findings:
 Many flood extents in Fort Bend county were not predicted by the TWDB 500 year flood hazard map. Spatially, the flood model appeared to be most accurate near the Brazos River. Further studies could examine socio-economic impacts of floods and modeling such as critical infrastructure planning or emergency resource placement. 
 
+Link to map ('harveymap.png'): 
+![Flood map]https://github.com/avaerickson/Harvey_Flood_Disrecpancy/blob/main/harveymap.png?raw=true
+
 Data:
 Flood Prediction: https://www.twdb.texas.gov/flood/science/floodplain-dataset.asp
 Harvey Extent: https://www.arcgis.com/apps/View/index.html?appid=8350c2f309bb49f8865a44cb972024c2 
