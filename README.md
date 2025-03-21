@@ -2,7 +2,7 @@
 Group project completed for Geoprocessing GRG350E, Fall 2024, which measured discrepancy in flood modeling prediction and actual flood extent during Hurricane Harvey in Houston, TX, 2017. Full Python script uploaded from Jupyter Lab as Harvey_Flood.ipynb
 
 Objective: 
-We wanted to assess the performance of the Texas Water Development Board’s flood modeling. To find this, we analyzed discrepancies in  flood extent data from Harvey (a 1-in-1,000-year flood event) and the FEMA 500 year flood prediction model. Our study focused on Fort Bend county, Texas, a region significantly impacted by Hurricane Harvey. 
+We wanted to assess the performance of the Texas Water Development Board’s flood modeling. To find this, we analyzed discrepancies in  flood extent data from Harvey (a 1-in-1,000-year flood event) and the flood prediction model. Our study focused on Fort Bend county, Texas, a region significantly impacted by Hurricane Harvey. 
 
 Findings:
 Many flood extents in Fort Bend county were not predicted by the TWDB 500 year flood hazard map. Spatially, the flood model appeared to be most accurate near the Brazos River. Further studies could examine socio-economic impacts of floods and modeling such as critical infrastructure planning or emergency resource placement. 
